@@ -1,0 +1,6 @@
+{
+  "name": "Think AI 3.0 - AI Innovation Competition",
+  "description": "Official event platform for Think AI 3.0 organized by IETE Student Forum, Dept. of Electronics & Computer Science Engineering, TCET.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
